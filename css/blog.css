@@ -1,0 +1,43 @@
+.button-wra{
+background-color: transparent;
+border: 1px solid #fad532;
+border-radius: 2px;
+letter-spacing: .125em;
+padding: 10px;
+width: 300px;
+}
+a.button-wrap{
+	text-decoration: !important none;
+	padding: 40px;
+	color: #fad532
+}
+.white{
+	color: white;
+}
+h1 .white{
+	font-size: !important 100px;
+}
+.blac a{
+	color:black;
+	text-decoration: none;
+}
+#size{
+	font-size: 35px;
+}
+#psize{
+	font-size: 20px;
+}
+ul li {
+	list-style-type: none;
+	color: silver;
+
+}
+ul li a{
+	text-decoration: none;
+}
+.comppany{
+margin-right: 50px;
+}
+footer{
+	background-color:black;
+}
